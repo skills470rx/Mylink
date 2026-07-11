@@ -63,6 +63,20 @@ body {
     margin-bottom: 40px;
 }
 
+#bg-video{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: -1;
+}
+
+body{
+    margin: 0;
+}
+
 .link-card {
     background-image:url("https://image.cdn2.seaart.me/2026-06-07/d8iff1te878c73bobgvg/f12bcb8e32e4aa7b86a24883436b5b53.gif");
     background-size:cover;
