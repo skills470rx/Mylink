@@ -187,7 +187,7 @@ const myLinks = [
     {
         title: "seaart ai skills",
         url: "https://www.seaart.ai/th/user/a59187a509d648fb02899c8b0f8b40d6?u_code=Z5JC9JFY",
-        image: "https://image.cdn2.seaart.me/2026-07-08/d96phtle878c73fhfnh0/cfb2660642cd331dd560ebebe9e1b7df.web"
+        image: "https://image.cdn2.seaart.me/2026-07-08/d96phtle878c73fhfnh0/cfb2660642cd331dd560ebebe9e1b7df.webp"
     },
 ];
 
