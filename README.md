@@ -4,4 +4,4 @@ User😆
  ├── avatar
  ├── bio
  ├── links[]
- https://alpha470rx.netlify.app/
+ https://skills470rx.netlify.app/
